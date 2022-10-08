@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-+(#&x$3=3+s_)5g5gp%po1*x7x%ckyu9k1jeazt7g!s==67_00
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     #Applications
     'core.apps.CoreConfig',
     'user.apps.UserConfig',
+    'recipe.apps.RecipeConfig',
 
     # 3rd Party Libraries
     'rest_framework',
