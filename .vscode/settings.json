@@ -2,14 +2,22 @@
   "cSpell.words": [
     "authtoken",
     "badpass",
+    "changeme",
     "ckyu",
+    "collectstatic",
+    "dbname",
     "DOCKERHUB",
+    "envsubst",
     "goodpass",
     "jeazt",
+    "noinput",
     "notanimage",
     "Pongal",
+    "rootuser",
     "testpass",
+    "uwsgi",
     "viewset",
-    "viewsets"
+    "viewsets",
+    "wsgi"
   ]
 }
